@@ -74,11 +74,3 @@ git clone https://github.com/meetmehta3474/bestseller-section.git
 All placeholder images are sourced from
 **[Unsplash](https://unsplash.com/)**.\
 Replace them with your own product images as needed.
-
-------------------------------------------------------------------------
-
-## 🧑‍💻 Author
-
-**Your Name**\
-📧 <your.email@example.com>\
-🌐 [your-portfolio-link.com](https://your-portfolio-link.com)
